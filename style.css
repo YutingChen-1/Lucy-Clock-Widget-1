@@ -1,12 +1,17 @@
 body{
     height: 500px, 100%;
     width: 300px, 100%;
+    color: black;
+    text-align: center;
     background-color: #FFFFFF;
-    text-align: center;
-    font-size: 1em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-button{
+#da, #dt
+{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
+    font-size: 1em;
+}
+#time{
+    font-family: 'Lora', serif;
+    font-size: 3.35em;
+    letter-spacing: 0.05em;
 }
